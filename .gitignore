@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+.npm-cache/
+.expo-home/
+.env
+.env.*
+!.env.example
+*.log
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.p8
+.DS_Store
+Thumbs.db

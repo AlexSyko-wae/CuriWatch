@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "CuriWatch",
+    "slug": "curiwatch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "permissions": ["android.permission.VIBRATE"],
+      "package": "com.smartwatchdemo.educational",
+      "versionCode": 1
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
